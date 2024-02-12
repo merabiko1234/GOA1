@@ -1,0 +1,1 @@
+print("aleko tirkia,gabriel molodini,nika keshelava")
